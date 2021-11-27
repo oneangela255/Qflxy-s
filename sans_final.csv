@@ -8,7 +8,7 @@
 0,SansHead,BlueEye,,,,,,,
 0,sound,falsh,,,,,,,
 0,SansSweat,0,,,,,,,
-0,sanstext,Try my special attack£¡,,,,,,,
+0,sanstext,Try my special attackÂ£Â¡,,,,,,,
 0,SansHead,Default,,,,,,,
 0,DamagePlayer,-999,0,,,,,,
 0,sound,playerheal,,,,,,,
@@ -278,10 +278,10 @@
 0,ADD,JG,$JG,1,,,,,
 0,JMPE,281,$JG,20,,,,,
 0,JMPREL,10,,,,,,,
-0,bonev,241,236,150,0,350,2,,
-0,bonev,406,236,150,2,350,1,,
-0,bonev,114,236,150,0,350,1,,
-0,bonev,536,236,150,2,350,2,,
+0,bonev,241,236,150,0,300,2,,
+0,bonev,406,236,150,2,300,1,,
+0,bonev,114,236,150,0,300,1,,
+0,bonev,536,236,150,2,300,2,,
 
 
 
